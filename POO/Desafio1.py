@@ -75,6 +75,7 @@ class Pedidos():
 a = Pedidos()
 produto1 = Produto("Iphone8",80,1)
 produto2 = Produto("Iphone9",100,15)
+produto3 = Produto("Iphone15",100,15)
 Cliente1 = Cliente("Guilherme",18,'553520')
 loja = Loja()
 loja.adicionar_itens(produto1)
